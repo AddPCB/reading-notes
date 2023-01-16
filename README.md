@@ -9,7 +9,7 @@ Hi, my name is Peter.
 
 I have been a chef for the past 15 years, but my real passion has alway been tech.
 
-> * *This chef is now looking to cook up some tasty code.* *
+> *This chef is now looking to cook up some tasty code.*
 
 ## What is this website?
 This is a short list of reading notes, specific to Full Stack Software Development Bootcamp, where my career begun anew.
