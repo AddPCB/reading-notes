@@ -5,7 +5,7 @@
 ## Who is Peter?
 Hi, my name is Peter. 
 
-***I am a software developer***: <sup>[github profile] (https://github.com/AddPCB) </sup>
+***I am a software developer***: <SUP>[github profile](https://github.com/AddPCB)</SUP>
 
 I have been a chef for the past 15 years, but my real passion has alway been tech.
 
