@@ -9,7 +9,7 @@ Hi, my name is Peter.
 
 I have been a chef for the past 15 years, but my real passion has alway been tech.
 
-> This chef is now looking to cook up some tasty code.
+> * *This chef is now looking to cook up some tasty code.* *
 
 ## What is this website?
 This is a short list of reading notes, specific to Full Stack Software Development Bootcamp, where my career begun anew.
@@ -18,6 +18,10 @@ This is a short list of reading notes, specific to Full Stack Software Developme
 The growth mindset is a worldview where failure is not an end state, but the starting point for future growth.
 
 ## How will I maintain the growth mindset.
+
 1. **Focus** on the task at hand. No offtopic media during work.
 2. **Seek** help for problems I can't solve within given timeframes.
 3. **Learn** from the success of my peers.
+
+[Relative link to this file] (reading-notes/README.md)
+[Static link to this file] (https://addpcb.github.io/reading-notes/README.md)
