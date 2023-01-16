@@ -23,5 +23,7 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 2. **Seek** help for problems I can't solve within given timeframes.
 3. **Learn** from the success of my peers.
 
-[Relative link to this file] (reading-notes/README.md)
-[Static link to this file] (https://addpcb.github.io/reading-notes/README.md)
+### Links
+[Relative link to this file](reading-notes/README.md)
+
+[Static link to this file](https://addpcb.github.io/reading-notes/README.md)
