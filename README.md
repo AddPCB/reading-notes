@@ -29,3 +29,6 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 [Relative link to this file](README.md)
 
 [Static link to this file](https://addpcb.github.io/reading-notes/README.md)
+
+##### Classes
+[Class 02](class-02.md)
