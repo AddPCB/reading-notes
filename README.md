@@ -1,4 +1,4 @@
-
+theme: minima
 # Reading-Notes
 ![header image of parkland](https://media.discordapp.net/attachments/914902361246416966/915747141023068180/unknown.png)
 
