@@ -38,9 +38,9 @@ You have now generated a .git folder containing the basic classification system 
   
 To begin tracking te contents of this folder for changes:  
   
-  > ```git add *.c```
-  > ```git add LICENSE```
-  > ```git commit -m "initial commit for new project"
+  > ```git add *.c```  
+  > ```git add LICENSE```  
+  > ```git commit -m "initial commit for new project```  
 
 Now these files are being tracked.
 
