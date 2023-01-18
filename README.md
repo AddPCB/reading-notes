@@ -22,11 +22,16 @@ This is a short list of reading notes, specific to the 'Full Stack Software Deve
 
 The growth mindset is a worldview where failure is not an end state, but the starting point for future growth.  
 
-### How will I maintain the growth mindset.  
+### How will I maintain the growth mindset.  ## Things I want to know more about
 
 1. **Focus** on the task at hand. <SUB>No offtopic media during work.</SUB>  
 2. **Seek** help for problems I can't solve within given timeframes.  
 3. **Learn** from the success of my peers.  
+
+## Things I want to know more about  
+
+- CLI batch file manipulation
+- Static site builders
 
 #### Links  
 
