@@ -8,7 +8,7 @@ Hi, my name is Peter.
 
 ***I am a software developer***  
 
-Profile: <SUP>[Github](https://github.com/AddPCB)</SUP>  
+Profile: [^G^i^t^h^u^b](https://github.com/AddPCB)  
 
 I have been a chef for the past 15 years, but my *real* passion has alway been tech.  
 
@@ -24,7 +24,7 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 
 ### How will I maintain the growth mindset.  ## Things I want to know more about
 
-1. **Focus** on the task at hand. <SUB>No offtopic media during work.</SUB>  
+1. **Focus** on the task at hand. ~N~o ~o~f~f~t~o~p~i~c ~m~e~d~i~a ~d~u~r~i~n~g ~w~o~r~k.  
 2. **Seek** help for problems I can't solve within given timeframes.  
 3. **Learn** from the success of my peers.  
 
@@ -33,15 +33,15 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 - CLI batch file manipulation
 - Static site builders
 
-#### Links  
+### Links  
 
 [Relative link to this file](README.md)  
 
-[Static link to this file](https://addpcb.github.io/reading-notes/README) 
+[Static link to this file](https://addpcb.github.io/reading-notes/README)
 
-##### Table of Contents  
+#### Table of Contents  
 
-###### Classes  
+##### Classes  
 
 [Class 02](class-02.md)  
 
@@ -60,10 +60,11 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 [Class 11](class-201/class-11.md) [Class 12](class-201/class-12.md) [Class 13](class-201/class-13.md) [Class 14](class-201/class-14.md) [Class 15](class-201/class-15.md)
 
 [Class 02](class-02.md)  
-###### Guides  
+
+###### Guides
 
 [Markdown Basics](basics.md)  
 
 ---
 
-### [Back to top](#)  
+### [Back to top](Readme.md)  
