@@ -45,6 +45,21 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 
 [Class 02](class-02.md)  
 
+###### Code 102 Reading Notes
+
+[Class 1](class-102/class-01.md) [Class 2](class-102/class-02.md) [Class 3](class-102/class-03.md) [Class 4](class-102/class-04.md)  
+
+[Class 5](class-102/class-05.md) [Class 6](class-102/class-06.md) [Class 7](class-102/class-07.md) [Class 8](class-102/class-08.md)
+
+###### Code 201 Reading Notes
+
+[Class 01](class-201/class-01.md) [Class 02](class-201/class-02.md) [Class 03](class-201/class-03.md) [Class 04](class-201/class-04.md) [Class 05](class-201/class-05.md)
+
+[Class 06](class-201/class-06.md) [Class 07](class-201/class-07.md) [Class 08](class-201/class-08.md) [Class 09](class-201/class-09.md) [Class 10](class-201/class-10.md)
+
+[Class 11](class-201/class-11.md) [Class 12](class-201/class-12.md) [Class 13](class-201/class-13.md) [Class 14](class-201/class-14.md) [Class 15](class-201/class-15.md)
+
+[Class 02](class-02.md)  
 ###### Guides  
 
 [Markdown Basics](basics.md)  
