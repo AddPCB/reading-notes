@@ -5,5 +5,5 @@
 
 ## Things I want to know more about
 
-- Static site builders
-- VSCode keyboard shortcuts
+- Static site builders.
+- VSCode keyboard shortcuts.
