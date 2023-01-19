@@ -59,8 +59,6 @@ The growth mindset is a worldview where failure is not an end state, but the sta
 
 [Class 11](class-201/class-11.md) [Class 12](class-201/class-12.md) [Class 13](class-201/class-13.md) [Class 14](class-201/class-14.md) [Class 15](class-201/class-15.md)
 
-[Class 02](class-02.md)  
-
 ###### Guides
 
 [Markdown Basics](basics.md)  
