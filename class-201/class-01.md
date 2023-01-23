@@ -19,7 +19,7 @@ if(myBool+anotherBool+1==3) {
 // so the + functions as a mathematical +, giving a mathematical number 3 as the answer
 // the + has transformed 'true' from a boolean to a numerical 1 before the strict equals operation occurs
 // so to it, the equation looks like: number 3 = number 3
-// and this is strictly true so passes both tests.
+// and this is strictly true so passes both tests
 if(1+1+'1'===21) {
   console.log("string strictly true")
 } else { console.log("string strictly false")
@@ -41,6 +41,7 @@ if(1+1+'1'==21) {
 // the === just threw it's hands up because it doesn't put up with ambiguity
 // this is useful, because we wouldn't want to confuse 3 and 21 if the result is later used in further math or logic
 // so we can see that strict equals is a way of preserving mathematical and logical integrity
-// as strings can only be logically added and booleans can only be mathematically added, true+"1" does not compute, so cannot pass either test.
+// as strings can only be logically added and booleans can only be mathematically added 
+// true+"1" does not compute, so cannot pass either test.
 </script>
 ```
