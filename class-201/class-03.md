@@ -41,5 +41,5 @@ console.log(myName + " scored " + correctAnswers + "points out of 7.");
 But VScode suggests we do this, which seems more intuitive:
 
 ```javascript
-\`Colour picked: ${question7}. Attempts remaining: ${q7Attempts}.\`
+`Colour picked: ${question7}. Attempts remaining: ${q7Attempts}.`
 ```
