@@ -1,8 +1,6 @@
 # sloppy and strict equals
 
 ```html
-@samantha#2997 
-```html
 <script>
 let myBool = true;
 let anotherBool = true;
