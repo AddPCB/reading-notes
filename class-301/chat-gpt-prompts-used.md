@@ -30,6 +30,7 @@ The notes you write will be based on a markdown document i will show you.
 The markdown document i will show you contains a set of learning objectives, and an outline of 6 notes.
 
 The notes you write will be based on th 6 outlined notes, and encompass the learning objectives.
+
 outline.md
 
 ## Prompt 2
@@ -48,6 +49,7 @@ The notes you write will be based on a markdown document i will show you.
 The markdown document i will show you contains a set of learning objectives, and an outline of 8 notes.
 
 The notes you write will be based on th 8 outlined notes, and encompass the learning objectives.
+
 outline.md:
 
 ## Prompt 3
@@ -68,6 +70,7 @@ The notes you write will be based on a markdown document i will show you.
 The markdown document i will show you contains a set of learning objectives, and an outline of 4 notes.
 
 The notes you write will be based on the 4 outlined notes, and encompass the learning objectives.
+
 outline.md:
 
 ### Prompt 3a
