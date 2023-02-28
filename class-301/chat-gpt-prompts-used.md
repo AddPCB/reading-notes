@@ -71,11 +71,11 @@ The markdown document i will show you contains a set of learning objectives, and
 
 The notes you write will be based on the 4 outlined notes, and encompass the learning objectives.
 
-outline.md:
+outline.md
 
 ### Prompt 3a
 
-You truncated 'Example:' after 'Note 3:', please read my question and your answer so far, and continue from where You stopped at 'Example' without re-typing notes 1-2.
+You truncated at 'Example:' after 'Note 3:', please read my question and your answer so far, and continue from where You stopped at 'Example' without re-typing notes 1-2.
 
 ### Prompt 3b
 
