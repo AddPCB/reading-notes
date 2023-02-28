@@ -1,14 +1,16 @@
 # Prompts for generating reading notes
 
-Below are the prompts I used to generate my class notes using Chat GPT 3 Pro.
+These notes following this introduction were from the class README.md files using Chat GPT 3 Pro.
 
-I add markdown formatting and clean the language in the titles, but it is functionally Chat GPT 3's Output.
+I add markdown formatting, and clean the language in the titles, but the notes are functionally Chat GPT 3's Output.
 
-I postulate that using Chat GPT in this way is right and valid, but -ONLY- when the generation prompts are included with the output.
+I believe documenting generation prompts and processes is the right way to keep a transparent authorship record of generated content.
 
-I believe this is the open hand philosophy that open soruce development demands, and that showing your prompts is an essential part of publishing any work done with Chat GPT.
+I believe that publishing this prompt engineering documentation sanitises generated output for integration into an open source development workflow.
 
-During this project I will endeavour to catalogue my use of Chat GPT, and through this prove it's utility to students who are poor note-takers.
+I believe that GPT output sanitised and documented this way contains enough attribution to become as valid a commit as any other that includes reference text or code.
+
+During this project I will endeavour to catalogue my use of Chat GPT, and through this prove it's utility to students like me who are poor note-takers.
 
 ## Prompt 1
 
