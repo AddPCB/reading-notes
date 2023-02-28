@@ -1,6 +1,6 @@
 # Passing Functions As Props
 
-## How a child can component update the state of a parent component
+## How a child component updates the state of a parent component
 
 In React, data flows down from a parent component to a child component through props.
 However, when a child component needs to update the state of a parent component, it can do so by passing a function down to the child component through props.
@@ -105,7 +105,7 @@ The Parent component passes this function down to the Child component through pr
 The Child component then renders a button with an onClick handler that calls the showMessage function when clicked.
 When the button is clicked, the showMessage function defined in the Parent component is executed, and the message is logged to the console.
 
-## Using React-Bootstrap to determine if a modal is open or closed
+## How React-Bootstrap determines if a modal is open or closed
 
 In React-Bootstrap, you can use the show prop to determine whether a modal is open or closed.
 If the show prop is set to true, the modal is open.
@@ -160,7 +160,7 @@ The handleShow and handleClose functions are defined to update the showModal sta
 When the Open Modal button is clicked, the handleShow function is called, which sets the showModal state variable to true, causing the modal to open.
 When the Close button is clicked, the handleClose function is called, which sets the showModal state variable to false, causing the modal to close.
 
-## How a child component updates the state in the parent component
+## How a child component updates the state in a parent component
 
 ### Step 1
 
