@@ -1,4 +1,4 @@
-# Prompts for generating readinng notes
+# Prompts for generating reading notes
 
 Below are the prompts I used to generate my class notes using Chat GPT 3 Pro.
 
