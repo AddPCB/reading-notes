@@ -7,9 +7,9 @@ However, when a child component needs to update the state of a parent component,
 The child component can then call this function to update the state of the parent component.
 This allows for two-way communication between components and enables the child component to change the state of the parent component.
 
-Example:
+### Example a
 
-````kotlin
+```kotlin
 
 class Parent extends React.Component {
   constructor(props){
@@ -53,19 +53,19 @@ class Child extends React.Component {
     )
   }
 }
-``
+```
 
 In the example above, the Parent component passes down its updateCount function to the Child component through props.
 The Child component then calls this function with the new count entered in the input field.
 This updates the count state in the Parent component, and the new count is displayed in the Parent component.
 
-# How a parent component sends a function into a child component?
+## How a parent component sends a function into a child component
 
 In React, a parent component can send a function into a child component through props.
 To do this, the parent component defines a function and passes it down to the child component as a prop.
 The child component can then use this function to perform some action, such as updating the state of the parent component.
 
-Example:
+### Example b
 
 ```kotlin
 
@@ -98,7 +98,7 @@ class Child extends React.Component {
     )
   }
 }
-````
+```
 
 In the example above, the Parent component defines a function called showMessage, which logs the message stored in the Parent component's state to the console.
 The Parent component passes this function down to the Child component through props.
@@ -111,7 +111,7 @@ In React-Bootstrap, you can use the show prop to determine whether a modal is op
 If the show prop is set to true, the modal is open.
 If the show prop is set to false, the modal is closed.
 
-Example:
+### Example c
 
 ```javascript
 import { Modal, Button } from "react-bootstrap";
@@ -160,13 +160,13 @@ The handleShow and handleClose functions are defined to update the showModal sta
 When the Open Modal button is clicked, the handleShow function is called, which sets the showModal state variable to true, causing the modal to open.
 When the Close button is clicked, the handleClose function is called, which sets the showModal state variable to false, causing the modal to close.
 
-## Allowing the child component to update the state in the parent component
+## How a child component updates the state in the parent component
 
 ### Step 1
 
 Send a function into the child component that updates the state in the parent component
 
-````javascript
+```javascript
 
 class Parent extends React.Component {
   constructor(props){
@@ -184,7 +184,7 @@ class Parent extends React.Component {
     )
   }
 }
-``
+```
 
 In the example above, the Parent component defines a function called updateName that updates the name state in the Parent component.
 The Parent component passes this function down to the Child component through props using the prop name updateName.
@@ -194,33 +194,32 @@ The Parent component passes this function down to the Child component through pr
 Invoke that function from the props in the child component
 
 ```javascript
-
 class Child extends React.Component {
-  constructor(props){
+  constructor(props) {
     super(props);
-    this.state={
-      newName:''
-    }
+    this.state = {
+      newName: "",
+    };
   }
 
   updateChildName = () => {
     const { updateName } = this.props;
     const { newName } = this.state;
     updateName(newName);
-  }
+  };
 
-  render(){
-    return(
+  render() {
+    return (
       <>
         <form onSubmit={this.updateChildName}>
           <label>What is your new name?</label>
           <input onChange={(e) => this.setState({ newName: e.target.value })} />
         </form>
       </>
-    )
+    );
   }
 }
-````
+```
 
 In the example above, the Child component defines a function called updateChildName that is called when the form is submitted.
 This function first retrieves the updateName function from the props and the new name from the state.
