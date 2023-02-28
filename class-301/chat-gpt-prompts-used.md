@@ -30,14 +30,23 @@ You will help me study.
 When you decide to press submit, you will pause and check that you have finished typing, and that you want to press submit.
 You will write a markdown document titled 'React states and props notes', 'React states and props notes' contains informal reading notes.
 You will write a series of 8 notes, each note will answer a different question, or explain a different subtopic Each individual note is followed by an example.
-Each example is a triple-backtick code block of indented, commented, original, efficient, readable code. The notes you write will be based on a markdown document i will show you.
-The markdown document i will show you contains a set of learning objectives, and an outline of 8 notes. The notes you write will be based on th 8 outlined notes, and encompass the learning objectives.
+Each example is a triple-backtick code block of indented, commented, original, efficient, readable code.
+The notes you write will be based on a markdown document i will show you.
+The markdown document i will show you contains a set of learning objectives, and an outline of 8 notes.
+The notes you write will be based on th 8 outlined notes, and encompass the learning objectives.
 outline.md:
 
 ## Prompt 3
 
 you will help me study.
-when you decide to press submit, you will pause and check that you have finished typing, and that you want to press submit. you will write a markdown document titled 'Passing Functions as Props', 'Passing Functions as Props' contains informal reading notes. You will write a series of 4 notes, each note will answer a different question, or explain a different subtopic Each individual note is followed by an example. Note 4 contains 3 examples. Each example is a triple-backtick code block of indented, commented, original, efficient, readable code. The notes you write will be based on a markdown document i will show you. the markdown document i will show you contains a set of learning objectives, and an outline of 4 notes. the notes you write will be based on the 4 outlined notes, and encompass the learning objectives.
+when you decide to press submit, you will pause and check that you have finished typing, and that you want to press submit.
+you will write a markdown document titled 'Passing Functions as Props', 'Passing Functions as Props' contains informal reading notes.
+You will write a series of 4 notes, each note will answer a different question, or explain a different subtopic Each individual note is followed by an example.
+Note 4 contains 3 examples.
+Each example is a triple-backtick code block of indented, commented, original, efficient, readable code.
+The notes you write will be based on a markdown document i will show you.
+the markdown document i will show you contains a set of learning objectives, and an outline of 4 notes.
+the notes you write will be based on the 4 outlined notes, and encompass the learning objectives.
 outline.md:
 
 ### Prompt 3a
