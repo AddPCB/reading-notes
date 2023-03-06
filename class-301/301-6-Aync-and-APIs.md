@@ -99,12 +99,9 @@ Making an API call involves sending an HTTP request to an API endpoint and recei
 ### Example 7
 
 ```javascript
-// This is an example of making an API call using Axios
-import axios from "axios";
-
-axios
-  .get("https://api.example.com/data")
-  .then((response) => console.log(response.data))
+// This is an example of making an API call using the Fetch API
+fetch("https://api.example.com/data")
+  .then((response) => console.log(response.json()))
   .catch((error) => console.error(error));
 ```
 
@@ -115,7 +112,7 @@ When making API calls, it's important to handle errors that may occur. One way t
 ### Example 8
 
 ```javascript
-// This is an example of using try/catch to handle errors in an API call
+// This is an example of using try/catch to handle errors in an API call using Axios
 import axios from "axios";
 
 async function fetchData() {
@@ -135,7 +132,7 @@ Queries are a way to pass parameters to an API request. Queries are typically ad
 ### Example 9
 
 ```javascript
-// This is an example of using queries in an API request
+// This is an example of using queries in an API request using Axios
 import axios from "axios";
 
 axios
@@ -151,11 +148,15 @@ WRRC stands for "Web Request Response Cycle". The WRRC is a process that occurs 
 ### Example 10
 
 ```javascript
-// This is an example of the WRRC in action
-fetch("https://api.example.com/data")
-  .then((response) => response.json())
-  .then((data) => console.log(data))
-  .catch((error) => console.error(error));
+
+Client                     Server
+  |------ DNS Lookup ---->|
+  |<---- IP Address -------|
+  |------ TCP Handshake -->|
+  |<----- TCP Handshake ---|
+  |------ HTTP Request --->|
+  |<----- HTTP Response ---|
+  |------ Render Page ---->|
 ```
 
 ## Conclusion
