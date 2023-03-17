@@ -1,4 +1,13 @@
-# How to detect if your client and server are running in dev environment.
+# How to detect if your client and server are running in dev environment
+
+Instructions are for ubuntu on windows 10
+
+cross-env not required for native mac or linux.
+
+1. `npm i -g cross-env`
+1. `npm i cross-env` in your client root.
+1. `npm i cross-env' in your server root.
+1. Integrate changes from my server.js, BestBooks.js and both package.json files.
 
 ## server
 
@@ -101,3 +110,13 @@ The scripts section of my client package.json
     "build": "react-scripts build"
   },
 ```
+
+## Result
+
+I start my dev client with npm start
+
+I start my dev server with npm start
+
+the environment is set and the client has access to the server.
+
+This is necessary code for using netlify dev
