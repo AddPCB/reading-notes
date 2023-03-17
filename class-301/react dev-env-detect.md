@@ -6,7 +6,7 @@ cross-env not required for native mac or linux.
 
 1. `npm i -g cross-env`
 1. `npm i cross-env` in your client root.
-1. `npm i cross-env' in your server root.
+1. `npm i cross-env` in your server root.
 1. Integrate changes from my server.js, BestBooks.js and both package.json files.
 
 ## server
